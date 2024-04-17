@@ -4,4 +4,4 @@ Nome: Thalison Alves Rodrigues# AppDeCompra
 
 Nome: Victor Eduardo moraes# #AppDeCompra
 
-Nome : GUstavo Sales #AppDeCompra
+Nome : Gustavo Sales #AppDeCompra
